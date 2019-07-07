@@ -1,5 +1,10 @@
 package com.cipher.cloud.exceptions;
 
+/**
+ * 
+ * @author Binit
+ *
+ */
 public class BrowserNotSpecifiedException extends Exception {
 
 	/**
